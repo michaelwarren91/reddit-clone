@@ -1,2 +1,2 @@
 # reddit-clone
-Personal project: Reddit clone coded ind Ruby on Rails
+Personal project: Reddit clone coded in Ruby on Rails
